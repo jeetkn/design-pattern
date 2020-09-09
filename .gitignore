@@ -1,3 +1,3 @@
-**/.idea
-typescript/**/**/node_modules
-typescript/**/**/package-lock.json
+Examples/**/.idea
+Examples/typescript/**/**/node_modules
+Examples/typescript/**/**/package-lock.json
