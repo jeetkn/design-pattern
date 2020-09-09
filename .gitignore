@@ -1,3 +1,5 @@
 Examples/**/.idea
+Examples/**/**/**/.idea
+Examples/python/**/**/venv
 Examples/typescript/**/**/node_modules
 Examples/typescript/**/**/package-lock.json
